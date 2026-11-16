@@ -1,0 +1,6 @@
+/* 保留 Read the Docs 主题，仅改善中文阅读和键盘焦点。 */
+body, .rst-content { font-family: Lato, "Noto Sans SC", "Microsoft YaHei", sans-serif; }
+.rst-content p, .rst-content li { line-height: 1.85; }
+.wy-nav-content { max-width: 960px; }
+.rst-content table.docutils td { white-space: normal; }
+a:focus-visible, button:focus-visible, input:focus-visible { outline: 3px solid #b85c00; outline-offset: 3px; }

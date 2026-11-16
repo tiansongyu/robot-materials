@@ -1,0 +1,7 @@
+.venv/
+docs/_build/
+__pycache__/
+*.pyc
+docs/_static/vendor/
+.jupyter_cache/
+artifacts/
