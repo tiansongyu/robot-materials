@@ -1,8 +1,8 @@
-# 机器人材料学：从选材到制造
+# 机器人知识库
 
 中文学习站，围绕机器人零件的选材、制造、连接和验证展开。包含材料学习页面、三类机器人零件案例、电机与三类减速器图解，以及构建时实际执行的质量、挠度和热膨胀计算。
 
-在线阅读：https://tiansongyu.github.io/robot-materials/
+在线阅读：https://tiansongyu.github.io/robotics-knowledge/
 
 内容入口：[docs/index.md](docs/index.md)。建议从学习路线开始，依次阅读基础、材料、工艺、选材与实验。案例参数明确标为教学假设，材料数据附原始来源；内容不替代具体零件的设计与验证。
 

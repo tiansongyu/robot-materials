@@ -1,5 +1,5 @@
 """Sphinx project documentation configuration."""
-project = '机器人材料学：从选材到制造'
+project = '机器人知识库'
 language = 'zh_CN'
 extensions = ['sphinx_rtd_theme', 'myst_nb', 'sphinxcontrib.mermaid', 'sphinx.ext.mathjax']
 html_theme = 'sphinx_rtd_theme'
@@ -28,6 +28,6 @@ nb_execution_allow_errors = False
 nb_execution_in_temp = True
 mermaid_version = '11.12.2'
 mermaid_init_config = {'startOnLoad': False, 'securityLevel': 'strict', 'theme': 'neutral'}
-html_baseurl = 'https://tiansongyu.github.io/robot-materials/'
+html_baseurl = 'https://tiansongyu.github.io/robotics-knowledge/'
 mermaid_use_local = 'vendor/mermaid/dist/mermaid.esm.min.mjs'
 mathjax_path = 'vendor/mathjax/es5/tex-mml-chtml.js'
